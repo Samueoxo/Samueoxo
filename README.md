@@ -1,4 +1,3 @@
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamidu Samuel Mansaray
 ==============================================================================================================================================
 
@@ -8,10 +7,11 @@ Machine Learning Engineer
 I am passionate about Machine Learning, Artificial Intelligence, Python, Communicating Insights, storytelling, Decision making and Data Analytics literacy. I'm constantly seeking out opportunities to explore this rapidly evolving field and staying at the edge to apply AI and Learning algorithms that help build Innovations across industries.
 
 * 🌍  I'm based in Morocco
+* 🖥️  See my portfolio at [My Portfolio](http://samueloxo.netlify.app)
 * ✉️  You can contact me at [hamidmans007@gmail.com](mailto:hamidmans007@gmail.com)
 * 🧠  I'm learning YOLO
 * 🤝  I'm open to collaborating on NLP Projects
-* ⚡  I'm Monkey D Luffy!
+* ⚡  I'm Monkey D Luffy, but I don't have a straw hat!
 
 ### Skills
 
@@ -24,3 +24,6 @@ I am passionate about Machine Learning, Artificial Intelligence, Python, Communi
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Samueoxo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hamidu-mansaray" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+
