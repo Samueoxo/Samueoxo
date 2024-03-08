@@ -1,3 +1,4 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamidu Samuel Mansaray
 ==============================================================================================================================================
 
@@ -9,6 +10,7 @@ I am passionate about Machine Learning, Artificial Intelligence, Python, Communi
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [My Portfolio](http://samueloxo.netlify.app)
 * ✉️  You can contact me at [hamidmans007@gmail.com](mailto:hamidmans007@gmail.com)
+* 🚀  I'm currently working on [Machine Learning Blogs](http://https://samuelmachinelearning.blogspot.com/)
 * 🧠  I'm learning YOLO
 * 🤝  I'm open to collaborating on NLP Projects
 * ⚡  I'm Monkey D Luffy, but I don't have a straw hat!
