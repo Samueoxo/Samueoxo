@@ -10,7 +10,7 @@ I am passionate about Machine Learning, Artificial Intelligence, Python, Communi
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [My Portfolio](http://samueloxo.netlify.app)
 * ✉️  You can contact me at [hamidmans007@gmail.com](mailto:hamidmans007@gmail.com)
-* 🚀  I'm currently working on [Machine Learning Blogs](http://samuelmachinelearning.blogspot.com/2024/02/logistic-regression.html)
+* 🚀  I'm currently working on [Machine Learning Blogs](https://medium.com/@hamidmans007)
 * 🧠  I'm learning YOLO
 * 🤝  I'm open to collaborating on NLP Projects
 * ⚡  I'm Monkey D Luffy, but I don't have a straw hat!
