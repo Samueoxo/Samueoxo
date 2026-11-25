@@ -8,7 +8,6 @@ Machine Learning Engineer
 I am passionate about Machine Learning, Artificial Intelligence, Python, Communicating Insights, storytelling, Decision making and Data Analytics literacy. I'm constantly seeking out opportunities to explore this rapidly evolving field and staying at the edge to apply AI and Learning algorithms that help build Innovations across industries.
 
 * 🌍  I'm based in Morocco
-* 🖥️  See my portfolio at [My Portfolio](http://samueloxo.netlify.app)
 * ✉️  You can contact me at [hamidmans007@gmail.com](mailto:hamidmans007@gmail.com)
 * 🚀  I'm currently working on [Machine Learning Blogs](https://medium.com/@hamidmans007)
 * 🧠  I'm learning YOLO
